@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ansj:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ansj_jar</output-path>
+    <root id="archive" name="ansj.jar">
+      <element id="module-output" name="ansj" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ansj/ansj_seg/5.1.1/ansj_seg-5.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/nlpcn/nlp-lang/1.7.2/nlp-lang-1.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/sf/trove4j/core/3.1.0/core-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.57/fastjson-1.2.57.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
