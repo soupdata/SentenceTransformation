@@ -13,11 +13,9 @@ public class Main {
   public static void main(String[]args) throws IOException {
     // 获取同义词
     Thesaurus thesaurusObject=new Thesaurus();
-   List<Map<String,String>> thesList=thesaurusObject.thesaurus("D:/softDd/ansj/thesaurus.txt");
+   List<Map<String,String>> thesList=thesaurusObject.thesaurus("thesaurus.txt");
    final Map<String,String> thesL=thesList.get(0);
    final Map<String,String> thesR=thesList.get(1);
-    // 结果
-    String resultString ="";
     // 文本输入框
     final JTextField[] input = {new JTextField()};//new一个文本框
     final JTextArea output=new JTextArea(); //new一个文本区
