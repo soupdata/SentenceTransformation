@@ -12,7 +12,6 @@ public class AnsjParticiples {
 public List<String> ansjSegmentationWords(String sentence) throws UnsupportedEncodingException {
   List<String> oneWords=new ArrayList<String>();
   Result result = ToAnalysis.parse(sentence);
-  JSONObject jsonObject = new JSONObject();
   Iterator iter = result.iterator();
   while (iter.hasNext()) {
     String [] arr=iter.next().toString().split("/");

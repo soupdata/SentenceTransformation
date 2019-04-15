@@ -23,7 +23,7 @@ public class Thesaurus {
       BufferedReader bufferedReader = new BufferedReader(read);
       while((line = bufferedReader.readLine()) != null){
         // new String(line.getBytes("UTF-8"),"utf-8").split("=");
-        String [] arr=line.split("=");
+        String [] arr=line.split("[=,]");
         if(arr.length==2) {
           // 将词组存入一张Hash表
           thesaurusLeftMap.put(arr[0], arr[1]);
