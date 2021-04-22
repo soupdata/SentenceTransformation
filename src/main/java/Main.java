@@ -4,7 +4,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -13,7 +12,7 @@ public class Main {
   public static void main(String[]args) throws IOException {
     // 获取同义词
     Thesaurus thesaurusObject=new Thesaurus();
-   List<Map<String,String>> thesList=thesaurusObject.thesaurus("thesaurus.txt");
+   List<Map<String,String>> thesList=thesaurusObject.thesaurus("src/main/resources/thesaurus.txt");
    final Map<String,String> thesL=thesList.get(0);
    final Map<String,String> thesR=thesList.get(1);
     // 文本输入框

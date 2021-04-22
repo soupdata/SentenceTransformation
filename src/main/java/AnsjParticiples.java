@@ -1,4 +1,3 @@
-import com.alibaba.fastjson.JSONObject;
 import org.ansj.domain.Result;
 import org.ansj.splitWord.analysis.ToAnalysis;
 
