@@ -27,24 +27,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8620ad6-2ec1-4758-ab33-f58d9f74aaf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nlp-lang-1.7.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AnsjParticiples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AnsjParticiples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AnsjParticiples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SentenceTransformation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Thesaurus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thesaurus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/thesaurus.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a8620ad6-2ec1-4758-ab33-f58d9f74aaf1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -211,22 +194,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="112" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1619059317253" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1619060862974">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1619062166437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619060862974" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1619060862973">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619062166437" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1619062166434">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619060862973" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1619060862972">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619062166434" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1619062166433">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619060862972" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1619060862974">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619062166433" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1619062166436">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619060862974" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619062166436" />
     <state x="221" y="63" key="SettingsEditor" timestamp="1619058658649">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
